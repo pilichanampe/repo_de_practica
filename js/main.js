@@ -1,0 +1,1 @@
+const git = 'Soy una constante que se llama Git';
